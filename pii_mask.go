@@ -1,4 +1,4 @@
-// cspell:ignore orhid
+// cspell:ignore orhid codfisc extrait iban ibans marousi piimask platitorul tbib ZĂÂÎȘ ZĂÂÎȘȚ zăâîșț
 // Package piimask provides PII masking for PDF content text. Used by
 // dump-redacted (in-process file dump) and safe-run (stdin/stdout
 // wrapper that scrubs the output of any other util).
